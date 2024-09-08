@@ -1,3 +1,4 @@
+wiat(10)
 local args = {
     [1] = "Phoenix"
 }
