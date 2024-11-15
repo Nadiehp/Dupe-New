@@ -1,6 +1,0 @@
-wait(15)
-local args = {
-    [1] = "Phoenix"
-}
-
-game:GetService("ReplicatedStorage").RemoteEvents.BuyItemCash:FireServer(unpack(args))
